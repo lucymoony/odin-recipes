@@ -1,1 +1,2 @@
 # odin-recipes
+Simple recipe website to practice knowledge from The Odin Project's HTML module. This project applies the HTML boilerplate, basic elements and tags, links and images, and, file directory management.
