@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 224, 230);
+    background-color: rgb(255, 234, 238);
     margin: 40px 140px 40px 140px;
     
 }
@@ -19,6 +19,7 @@ img {
 h1,
 h2{
     font-family: Monaco, "Lucida Console", monospace;
+    color: #8ba888;
 }
 
 h1{
@@ -38,6 +39,11 @@ ol {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+h3,
+h4 {
+    color: #566d52;
+}
+
 h3{
     font-size: 20px;
 }
@@ -48,11 +54,24 @@ h4{
 
 p {
     font-size: 18px;
+    color: #101110;
 }
 
 ul,
 ol {
     font-size: 16px;
     padding-left: 1.2em;
+    color: #101110;
 }
 
+a:link{
+    color: #8ba888;
+}
+
+a:visited{
+    color: #8ba888;
+}
+
+a:hover{
+    color: #566d52;
+}
