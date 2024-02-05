@@ -4,10 +4,10 @@ body {
     
 }
 
-div {
+.center-block {
+    width: 500px;
+    align-self: center;
     margin: auto;
-    width: 50%;
-    padding: 100px;
 }
 
 img {
